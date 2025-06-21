@@ -80,7 +80,7 @@ Conclusion: Fail to reject H₀
 ## ✍️ Author
 
 **Swetha Lalithanjali**  
-[GitHub](https://github.com/swethanjali24/Mini_Project/edit/main/README.md) 
+[GitHub](https://github.com/swethanjali24)
 ---
 
 ## 📃 License
